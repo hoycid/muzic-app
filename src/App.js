@@ -23,6 +23,18 @@ function App() {
         </TextHeader>
         <EnrollForm />
       </Section>
+      <FeaturedText text="We take the music school concept to the next level for kids, teens, and adults." />
+      <Section bg={pic2}>
+        <TextHeader>
+          <h1>MUSIC LESSONS</h1>
+          <h3>
+            We are a music learning center for; piano, violin, ukulele, guitar,
+            saxophone, trumpet, flute, voice, and drums. We also offer visual
+            art lessons.
+          </h3>
+        </TextHeader>
+        <InstrumentsList />
+      </Section>
     </div>
   );
 }

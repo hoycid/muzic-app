@@ -1,0 +1,29 @@
+.instruments {
+vertical-align: middle;
+  margin-left: 75%;
+  text-align: right;
+}
+
+.instruments ul {
+  list-style-type: none;
+}
+
+.instruments button {
+  background: none;
+  border-style: none;
+  border-color: #ff914d;
+  border-width: 3px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  font-size: 2rem;
+  padding: 5px;
+  margin: 10px;
+  margin-right: 0;
+  color: white;
+  cursor: pointer;
+}
+
+.instruments button:hover {
+  border-style: solid;
+}
