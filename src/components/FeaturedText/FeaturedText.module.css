@@ -1,13 +1,10 @@
 .featured-text {
-  margin: 0;
-  padding: 10%px;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding: 20%;
+  padding-top: 10%;
+  padding-bottom: 10%;
 
   background-color: black;
   color: white;
-  height: 21.5rem;
-  display: table-cell;
   vertical-align: middle;
   text-align: center;
 }

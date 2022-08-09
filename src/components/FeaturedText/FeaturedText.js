@@ -1,12 +1,9 @@
 import classes from "./FeaturedText.module.css";
 
-const FeaturedText = () => {
+const FeaturedText = props => {
   return (
     <section className={classes["featured-text"]}>
-      <h2>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-      </h2>
+      <h2>{props.text}</h2>
     </section>
   );
 };
