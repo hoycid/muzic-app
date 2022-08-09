@@ -1,9 +1,9 @@
-import Navbar from "./components/Navbar/Navbar";
-import Section from "./components/Section/Section";
-import TextHeader from "./components/TextHeader/TextHeader";
-import FeaturedText from "./components/FeaturedText/FeaturedText";
-import EnrollForm from "./components/EnrollForm/EnrollForm";
-import InstrumentsList from "./components/InstrumentsList/InstrumentsList";
+import Navbar from "./components/Layout/Navbar/Navbar";
+import Section from "./components/UI/Section/Section";
+import TextHeader from "./components/UI/TextHeader/TextHeader";
+import FeaturedText from "./components/UI/FeaturedText/FeaturedText";
+import EnrollForm from "./components/UI/EnrollForm/EnrollForm";
+import InstrumentsList from "./components/UI/InstrumentsList/InstrumentsList";
 
 import pic from "./assets/images/pic.jpg";
 import pic2 from "./assets/images/pic2.jpg";

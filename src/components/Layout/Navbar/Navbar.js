@@ -1,6 +1,6 @@
 import classes from "./Navbar.module.css";
 
-import logo from "../../assets/images/logo.png";
+import logo from "../../../assets/images/logo.png";
 
 const Navbar = () => {
   return (
