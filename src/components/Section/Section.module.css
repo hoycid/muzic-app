@@ -1,0 +1,7 @@
+.section {
+  background-color: gray;
+  display: flex;
+  height: 41.4rem;
+  padding-left: 5%;
+  padding-right: 5%;
+}

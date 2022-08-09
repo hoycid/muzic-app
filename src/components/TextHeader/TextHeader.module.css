@@ -1,0 +1,23 @@
+.text {
+  position: absolute;
+  padding: 5rem;
+  padding-top: 6%;
+  width: 30%;
+  background-color: none;
+  text-align: left;
+  color: white;
+}
+
+.text h1 {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.text h3 {
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+  text-transform: capitalize;
+}
