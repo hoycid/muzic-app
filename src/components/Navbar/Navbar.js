@@ -7,10 +7,18 @@ const Navbar = () => {
     <header className={classes["navigation-bar"]}>
       <img src={logo} alt="muzic-logo"></img>
       <ul>
-        <li>Music lessons</li>
-        <li>Workshops</li>
-        <li>Events</li>
-        <li>Schedules</li>
+        <li>
+          <button>Music lessons</button>
+        </li>
+        <li>
+          <button>Workshops</button>
+        </li>
+        <li>
+          <button>Events</button>
+        </li>
+        <li>
+          <button>Schedules</button>
+        </li>
       </ul>
     </header>
   );
