@@ -1,6 +1,6 @@
 import classes from "./Footer.module.css";
 
-import logo from "../../../assets/images/logo.png";
+import logo from "../../../assets/images/logo.jpg";
 
 const Footer = props => {
   return (

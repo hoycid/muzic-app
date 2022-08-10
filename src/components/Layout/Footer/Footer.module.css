@@ -9,12 +9,12 @@
 }
 
 .logo {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 20px;
-  padding-left: 50px;
-  padding-right: 0;
+
+  padding-left: 1%;
   margin: 0;
-  height: 50px;
+  height: 100px;
 }
 
 .modules {
@@ -38,7 +38,7 @@
   color: lightgrey;
 
   border-style: none;
-  border-color: #ff914d;
+  border-color: #FEC100;
   border-width: 2px;
 }
 
@@ -62,7 +62,7 @@
 .information {
   padding-top: 40px;
   padding-bottom: 40px;
-  padding-left: 50px;
+  padding-left: 30px;
   padding-right: 25px;
   color: lightgrey;
 }
@@ -71,7 +71,7 @@
   padding-top: 40px;
   padding-bottom: 40px;
   padding-left: 25px;
-  padding-right: 50px;
+  padding-right: 30px;
   color: lightgrey;
 }
 
@@ -120,8 +120,8 @@
 }
 
 .message button:hover {
-  background-color: #ff914d;
-  border-color: #ff914d;
+  background-color: #FEC100;
+  border-color: #FEC100;
 }
 
 .footer ul {
