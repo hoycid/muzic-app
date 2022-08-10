@@ -4,11 +4,10 @@ import TextHeader from "./components/UI/TextHeader/TextHeader";
 import FeaturedText from "./components/UI/FeaturedText/FeaturedText";
 import EnrollForm from "./components/UI/EnrollForm/EnrollForm";
 import InstrumentsList from "./components/UI/InstrumentsList/InstrumentsList";
+import Footer from "./components/Layout/Footer/Footer";
 
 import pic from "./assets/images/pic.jpg";
 import pic2 from "./assets/images/pic2.jpg";
-
-import "./App.css";
 
 function App() {
   return (
@@ -35,6 +34,7 @@ function App() {
         </TextHeader>
         <InstrumentsList />
       </Section>
+      <Footer />
     </div>
   );
 }
