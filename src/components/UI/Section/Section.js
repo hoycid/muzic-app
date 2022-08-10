@@ -4,7 +4,7 @@ const Section = props => {
   return (
     <div
       className={`${classes.section} ${props.className} `}
-      style={{ backgroundImage: `url(${props.bg})` }}
+      style={props.bg && { backgroundImage: `url(${props.bg})` }}
     >
       {props.children}
     </div>
