@@ -6,8 +6,8 @@ import EnrollForm from "./components/UI/EnrollForm/EnrollForm";
 import InstrumentsList from "./components/UI/InstrumentsList/InstrumentsList";
 import Footer from "./components/Layout/Footer/Footer";
 
-import pic from "./assets/images/pic.jpg";
-import pic2 from "./assets/images/pic2.jpg";
+import pic2 from "./assets/images/piano-playing.webp";
+import pic from "./assets/images/piano.webp";
 
 function App() {
   return (
